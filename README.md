@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  <img src="./preview.jpg" alt="preview.jpg"/>
+  <img src="./preview.png" alt="preview.png"/>
 </p>
